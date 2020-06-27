@@ -17,8 +17,8 @@ https://code.visualstudio.com/docs/python/python-tutorial#_install-and-use-packa
 *Note: When you create a new virtual environment, you should be prompted by VS Code to set it as the default for your workspace folder. If selected, the environment will automatically be activated when you open a new terminal.*
 
 For macOS/Linux
-`python3 -m venv .venv`
-`source .venv/bin/activate`
+- `python3 -m venv .venv`
+- `source .venv/bin/activate`
 
 2. Select your new environment by using the Python: Select Interpreter command from the Command Palette (Shift+Cmmd+P). (Should already be selected as ./.venv/bin/python3)
 
