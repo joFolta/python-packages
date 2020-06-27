@@ -36,12 +36,12 @@ python3 -m pip install matplotlib
 
 https://code.visualstudio.com/docs/python/python-tutorial#_next-steps
 
-*You can configure VS Code to use any Python environment you have installed, including virtual and conda environments. You can also use a separate environment for debugging. For full details, see Environments.
+*You can configure VS Code to use any Python environment you have installed, including virtual and conda environments. You can also use a separate environment for debugging. For full details, see Environments.*
 
-To learn more about the Python language, follow any of the programming tutorials listed on python.org within the context of VS Code.
+*To learn more about the Python language, follow any of the programming tutorials listed on python.org within the context of VS Code.*
 
-To learn to build web apps with the Django and Flask frameworks, see the following tutorials:
+*To learn to build web apps with the Django and Flask frameworks, see the following tutorials:*
 
-Use Django in Visual Studio Code
-Use Flask in Visual Studio Code
-There is then much more to explore with Python in Visual Studio Code:*
+*Use Django in Visual Studio Code*
+*Use Flask in Visual Studio Code*
+*There is then much more to explore with Python in Visual Studio Code*
