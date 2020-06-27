@@ -30,9 +30,7 @@ python3 -m pip install matplotlib
 
 5. Once you are finished, type deactivate in the terminal window to deactivate the virtual environment.
 
-DONE
-DONE
-DONE
+-----------------------------------------------------
 
 https://code.visualstudio.com/docs/python/python-tutorial#_next-steps
 
