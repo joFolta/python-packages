@@ -24,7 +24,7 @@ For macOS/Linux
 
 3. Install the packages
 macOS
-`python3 -m pip install matplotlib`
+- `python3 -m pip install matplotlib`
 
 4. Rerun the program now and after a few moments a plot window appears with the output.
 
